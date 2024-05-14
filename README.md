@@ -1,6 +1,6 @@
 # INSTRUCTIONS (MY PROGRAM ONLY WORKS FOR LINUX)
 
-To run the program manually (without running the test suite):
+##### To run the program manually (without running the test suite):
 
 chmod a+x LightSimulator_linux_amd64
 
@@ -9,7 +9,7 @@ chmod +x run_codingchallenge.sh
 ./run_codingchallenge.sh
 
 
-To run the program with the test suite (which exits upon completion):
+##### To run the program with the test suite (which exits upon completion):
 
 chmod a+x LightSimulator_linux_amd64
 
@@ -57,6 +57,7 @@ all of the default values and their states.
 # THIRD PARTY LIBRARIES USED
 
 [C++11 header-only HTTP/HTTPS client library](https://github.com/yhirose/cpp-httplib)
+
 [JSON for Modern C++](https://github.com/nlohmann/json)
 
 # PROBLEM STATEMENT
