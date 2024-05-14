@@ -1,0 +1,79 @@
+{
+    "id": "1f3007de-e3a7-45b1-b626-2e8957f7bf85",
+    "name": "Bathroom Light",
+    "room": "Bathroom",
+    "on": true,
+    "brightness": 200
+}
+{
+    "id": "27ecbcce-b52a-46f4-ac35-441c405815bd",
+    "name": "Bathroom Light",
+    "room": "Bathroom",
+    "on": true,
+    "brightness": 200
+}
+{
+    "id": "34563739-ecfd-4f58-abc8-59f87df90711",
+    "name": "Bathroom Light",
+    "room": "Bathroom",
+    "on": true,
+    "brightness": 200
+}
+{
+    "id": "3e41b7c1-757c-4d18-a4db-c3785ffbc459",
+    "name": "Bathroom Light",
+    "room": "Bathroom",
+    "on": true,
+    "brightness": 200
+}
+{
+    "id": "76c9d547-9465-44e6-b0f2-69460e349561",
+    "name": "Bathroom Light",
+    "room": "Bathroom",
+    "on": true,
+    "brightness": 200
+}
+{
+    "id": "977bf49d-e668-4a92-9793-4e01d873aea4",
+    "name": "Bathroom Light",
+    "room": "Bathroom",
+    "on": true,
+    "brightness": 200
+}
+{
+    "id": "a0ab0182-8097-49b9-a7ee-b22d44d4e0ed",
+    "name": "Bathroom Light",
+    "room": "Bathroom",
+    "on": true,
+    "brightness": 200
+}
+{
+    "id": "a90da5dc-caf1-488c-9683-b282d6efd99d",
+    "name": "Bathroom Light",
+    "room": "Bathroom",
+    "on": true,
+    "brightness": 200
+}
+{
+    "id": "aeb4d6b6-e0c5-4942-af66-6a3314216293",
+    "name": "Bathroom Light",
+    "room": "Bathroom",
+    "on": true,
+    "brightness": 200
+}
+{
+    "id": "e2039caf-7004-49f3-a78a-339816ceb2ba",
+    "name": "Bathroom Light",
+    "room": "Bathroom",
+    "on": true,
+    "brightness": 200
+}
+Pantry Light (2c85bb59-c136-49f1-a429-f02f52b6c765) has been removed
+{
+    "id": "af80e5c2-b235-471d-8df9-490703699eda"
+    "on": true,
+}
+{
+    "id": "edc1b691-a5af-4524-9b57-80341d90bfa2"
+    "brightness": 100
+}
