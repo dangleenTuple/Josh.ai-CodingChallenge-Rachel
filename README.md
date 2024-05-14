@@ -3,14 +3,18 @@
 To run the program manually (without running the test suite):
 
 chmod a+x LightSimulator_linux_amd64
+
 chmod +x run_codingchallenge.sh
+
 ./run_codingchallenge.sh
 
 
 To run the program with the test suite (which exits upon completion):
 
 chmod a+x LightSimulator_linux_amd64
+
 chmod +x run_tests.sh
+
 ./run_tests.sh
 
 
